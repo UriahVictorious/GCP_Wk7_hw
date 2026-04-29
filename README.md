@@ -23,3 +23,8 @@ For people to see the website, the bucket must be set to "public." Here are some
 ## Included Content
 * **Assets:** Files from Aaron's repository.
 * **Pictures:** An image of my favorite food, uploaded using Terraform.
+
+--
+
+# URL Link
+https://console.cloud.google.com/storage/browser/bucket-nekked1
